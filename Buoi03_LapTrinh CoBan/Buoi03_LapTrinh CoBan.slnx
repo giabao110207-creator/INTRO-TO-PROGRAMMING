@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Buoi03_cau7/Buoi03_cau7.vcxproj" />
+</Solution>

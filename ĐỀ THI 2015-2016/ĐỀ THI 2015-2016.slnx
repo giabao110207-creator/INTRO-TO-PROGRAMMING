@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../ĐỂ KIẾM TRA 2015-2016 Câu 2/ĐỂ KIẾM TRA 2015-2016 Câu 2.vcxproj" />
+  <Project Path="ĐỀ THI 2015-2016.vcxproj" Id="a1f97a5b-af8f-4a90-a04f-7ffa65e30657" />
+</Solution>

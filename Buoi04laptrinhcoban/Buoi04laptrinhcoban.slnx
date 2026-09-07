@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Buoi04laptrinhcoban/Buoi04laptrinhcoban.vcxproj" Id="5ab2a0de-6cab-45f2-92f9-0a19d0108012" />
+  <Project Path="giaiphuongtrinhbac2/giaiphuongtrinhbac2.vcxproj" Id="094e92bd-1679-4cac-87fb-784175b5e346" />
+  <Project Path="Lenhlapwhile,dowhilevafor/Lenhlapwhile,dowhilevafor.vcxproj" Id="6f801c59-0d12-49a4-86b4-0df6d330bb1c" />
+  <Project Path="Minhhoalenhlap_incacuocduongcua1so/Minhhoalenhlap_incacuocduongcua1so.vcxproj" Id="f0884fb5-cdbf-43a4-b1ee-02024d38b5bd" />
+  <Project Path="Nhapxuatchuoidungcin.getlinevacout/Nhapxuatchuoidungcin.getlinevacout.vcxproj" Id="bce4e099-751c-4a19-bc63-b46c1d4f9f81" />
+  <Project Path="Sosanhnhaplenhscanfvacin/Sosanhnhaplenhscanfvacin.vcxproj" Id="43225071-faa5-477e-918b-f603a7f2cc6a" />
+  <Project Path="Taokhungchuongtrinhmauchayduocnhieulan/Taokhungchuongtrinhmauchayduocnhieulan.vcxproj" Id="e06af77c-ddc9-4e68-8f70-1a4618199494" />
+</Solution>

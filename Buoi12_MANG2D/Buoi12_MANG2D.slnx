@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Buoi12_MaTranVuong/Buoi12_MaTranVuong.vcxproj" />
+  <Project Path="../ConsoleApplication1/ConsoleApplication1.vcxproj" />
+  <Project Path="Buoi12_MANG2D.vcxproj" />
+</Solution>
